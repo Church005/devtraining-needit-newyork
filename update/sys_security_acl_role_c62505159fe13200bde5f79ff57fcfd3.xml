@@ -15,5 +15,6 @@
         <sys_updated_on>2017-03-15 21:53:11</sys_updated_on>
         <sys_user_role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">4e42fb8d0fa83200cd674f8ce1050e72</sys_user_role>
         <transaction_id/>
+        <u_admin/>
     </sys_security_acl_role>
 </record_update>
