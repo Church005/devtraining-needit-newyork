@@ -30,7 +30,7 @@
         <reverted_from/>
         <source>b9ba8f90db440010cef361ca0b96191e</source>
         <source_table>sys_update_set</source_table>
-        <state>current</state>
+        <state>previous</state>
         <sys_created_by>rchurch</sys_created_by>
         <sys_created_on>2019-09-19 13:15:37</sys_created_on>
         <sys_id>e0927aecdb404010cef361ca0b9619ba</sys_id>
